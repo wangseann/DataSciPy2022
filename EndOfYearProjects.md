@@ -13,7 +13,7 @@ will take place on **Friday January 6th, 2023 from 9h30 through 14h00 in room Av
 
 The evaluation jury is composed of Karine Audouze, Heike Stein, Marcel Stimberg and Michael Graupner. 
 
-The annotated jupyter-notebook and the presentation can be prepared in English or French, up to the choice of the student. 
+The annotated jupyter-notebook can be prepared in English or French, up to the choice of the student. Same for the presentation, it can be provided in English or French. 
 
 ### Practial tips on the End-of-Course projects 
 
