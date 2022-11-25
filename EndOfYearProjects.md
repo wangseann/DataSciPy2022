@@ -9,7 +9,7 @@ Your work on the **End-of-Course Project** will make up 50 % of your final cours
 
 One or teams of maximal two students can choose a project from the list below. 
 The evaluation will be based on an annotated jupyter-notebook containing your project work and a presentation/discussion of the jupyter-notebook with the jury. The **project submission deadline is January the 2nd, 2023 (23h59)**. And the **project presentations** 
-will take place on **Friday January 6th, 2022 from 9h30 through 12h30 in room Avogadro A (2nd floor, 45 rue des Saints-Pères, 75006 Paris)**. Each presentation is limited to 10 min followed by 5 min of questions. 
+will take place on **Friday January 6th, 2023 from 9h30 through 14h00 in room Avogadro A (2nd floor, 45 rue des Saints-Pères, 75006 Paris)**. Each presentation is limited to 10 min followed by 5 min of questions. 
 
 The evaluation jury is composed of Karine Audouze, Heike Stein, Marcel Stimberg and Michael Graupner. 
 
